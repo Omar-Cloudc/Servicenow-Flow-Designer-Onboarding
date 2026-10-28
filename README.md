@@ -8,3 +8,4 @@ opened the user for flow designer
 wit demo catalog
 designing the flow designer to board a new employee
 closed complete 
+now collecting the steps done prev
