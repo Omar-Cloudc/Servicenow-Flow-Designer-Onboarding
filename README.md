@@ -1,4 +1,4 @@
-# Servicenow-Flow-Designer-Onboarding
+Servicenow-Flow-Designer-Onboarding
 # ServiceNow Employee Onboarding Automation
 
 An automated Service Catalog item and Flow Designer workflow built in ServiceNow to streamline new hire onboarding across IT, HR, OT, and Facilities.
@@ -37,17 +37,27 @@ This project automates the end-to-end onboarding process when a new employee is 
 ## Screenshots
 
 ### Service Catalog Item & Variables
-![Catalog Item & Variables](screenshots/variables.png)
+![Catalog Item & Variables](screenshots/catalog-item-variables-list.png)
 
 ### Catalog Variables List - 5 Fields Configured
-![Variables List](
+![Variables List](screenshots/catalog-new-employee-onboarding.png)
 
-### Variable Creation - Sngle 
+### Workflow Studio - New Flow Creation
+![Workflow Studio](screenshots/workflow-studio-employee-onboarding-flow-creation.png)
 
+### Flow Action - Create Catalog Task
+![Create Task](screenshots/flow-action-create-catalog-task-facilities-setup.png)
 
+### Full Flow Logic - Approval and Tasks
+![Full Flow](screenshots/flow-full-approval-tasks-logic.png)
 
-### Flow Designer Workflow
-![Flow Designer](screenshots/flow-designer.png)
+### Output - RITM and Catalog Tasks Proof
+![RITM Output](screenshots/ritm0010001-requested-item-tasks-output-proof.png)
 
-### Test Execution & Generated Tasks
-![Test Result](screenshots/test-result.png)
+-------
+
+### Key Learning:
+- Service Catalog Variable Configuration
+- Flow Designer - Approval & If Conditions
+- Automated Catalog Task Creation 
+
