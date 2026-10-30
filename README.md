@@ -39,6 +39,13 @@ This project automates the end-to-end onboarding process when a new employee is 
 ### Service Catalog Item & Variables
 ![Catalog Item & Variables](screenshots/variables.png)
 
+### Catalog Variables List - 5 Fields Configured
+![Variables List](
+
+### Variable Creation - Sngle 
+
+
+
 ### Flow Designer Workflow
 ![Flow Designer](screenshots/flow-designer.png)
 
