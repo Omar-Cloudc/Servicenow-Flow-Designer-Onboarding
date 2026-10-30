@@ -37,22 +37,22 @@ This project automates the end-to-end onboarding process when a new employee is 
 ## Screenshots
 
 ### Service Catalog Item & Variables
-![Catalog Item & Variables](screenshots/catalog-item-variables-list.png)
+![Catalog Item & Variables](catalog-item-variables-list.png)
 
 ### Catalog Variables List - 5 Fields Configured
-![Variables List](screenshots/catalog-new-employee-onboarding.png)
+![Variables List](catalog-new-employee-onboarding.png)
 
 ### Workflow Studio - New Flow Creation
-![Workflow Studio](screenshots/workflow-studio-employee-onboarding-flow-creation.png)
+![Workflow Studio](workflow-studio-employee-onboarding-flow-creation.png)
 
 ### Flow Action - Create Catalog Task
-![Create Task](screenshots/flow-action-create-catalog-task-facilities-setup.png)
+![Create Task](flow-action-create-catalog-task-facilities-setup.png)
 
 ### Full Flow Logic - Approval and Tasks
-![Full Flow](screenshots/flow-full-approval-tasks-logic.png)
+![Full Flow](flow-full-approval-tasks-logic.png)
 
 ### Output - RITM and Catalog Tasks Proof
-![RITM Output](screenshots/ritm0010001-requested-item-tasks-output-proof.png)
+![RITM Output](ritm0010001-requested-item-tasks-output-proof.png)
 
 -------
 
